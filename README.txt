@@ -1,0 +1,1 @@
+Initial commit with SLAM techniques, starting from the simple ones like Iterative Closest Point (ICP) and Correlative Scan Matching (CSM). Next stage of development includes a Visual-SLAM technique called Appearance-based SLAM. 
